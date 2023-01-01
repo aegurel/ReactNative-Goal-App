@@ -4,9 +4,9 @@ Goal app is a basic react-native application where you can list your targets and
 Download NodeJS
 https://nodejs.org/en/download/
 
-Download Expo-CLI
+Download Expo-CLI: 
 npm install expo-cli
 
-Start your project
+Start your project: 
 expo init projectName
 
